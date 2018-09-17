@@ -80,7 +80,14 @@ const EMOJI_MAP = new Map([
   ['halloween', ':ghost:'],
   ['fire', ':fire:'],
   ['hot', ':fire:'],
+  ['heat', ':fire:'],
   ['burn', ':fire:'],
+  ['prison', ':gun:'],
+  ['Lucky', ':raised_hands:'],
+  ['electric', ':raised_hands:'],
+  
+  
+  
   ['night', ':sparkles:'],
   ['forest', ':evergreen_tree:'],
   ['tree', ':evergreen_tree:'],
